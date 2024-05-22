@@ -7,7 +7,7 @@
 
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true)
 
-![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true&locale=se)
+![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true&locale=se&show_owner=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
