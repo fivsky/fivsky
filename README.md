@@ -8,3 +8,5 @@
 [![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky)](https://github.com/fivsky/github-readme-stats)
 
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&show_icons=true)
+
+![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&show_icons=true&theme=radical)
