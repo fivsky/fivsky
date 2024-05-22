@@ -8,3 +8,5 @@
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true)
 
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true&local=se)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fivsky)](https://github.com/fivsky/github-readme-stats)
