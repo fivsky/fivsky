@@ -9,6 +9,6 @@
 
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true&locale=se)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fivsky&layout=donut)](https://github.com/fivsky/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Fivsky's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fivsky)](https://github.com/fivsky/github-readme-stats)
