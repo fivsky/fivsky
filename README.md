@@ -10,3 +10,9 @@
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true&local=se)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fivsky)](https://github.com/fivsky/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
