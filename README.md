@@ -6,3 +6,5 @@
 - 📫 How to reach me: @ruslanfs - Telegram
 
 ![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&show_icons=true&theme=merko)
+
+![Fivsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=fivsky&theme=dark&show_icons=true)
