@@ -1,5 +1,4 @@
-<a https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&logoSize=auto&labelColor=white&color=blue&link=https%3A%2F%2Fru.linkedin.com%2Fin%2Fruslanarestov
-/a>
+<a https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&logoSize=auto&labelColor=white&color=blue&link=https%3A%2F%2Fru.linkedin.com%2Fin%2Fruslanarestov /a>
 
 
 ## Hello 👋
