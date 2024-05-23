@@ -14,6 +14,6 @@
 </a>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-             <font size="20px"</font>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"<font size="20px"</font>/>
+   
           
