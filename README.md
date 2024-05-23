@@ -1,9 +1,9 @@
 ## Hello 👋
 
-🌱 I learn Python 1,5 year.
-👯 I’m looking to collaborate on simple Python projects or No code projects.
-🤔 I’m looking for help with Python, FastAPI, Django & Flask.
-📫 How to reach me: @ruslanfs - Telegram
+- 🌱 I learn Python 1,5 year.
+- 👯 I’m looking to collaborate on simple Python projects or No code projects.
+- 🤔 I’m looking for help with Python, FastAPI, Django & Flask.
+- 📫 How to reach me: @ruslanfs - Telegram
 
 
 <a href="https://github.com/fivsky/github-readme-stats">
