@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello, it's Ruslan 👋
 
 - 🌱 I learn Python 1,5 year.
 - 👯 I’m looking to collaborate on simple Python projects or No code projects.
