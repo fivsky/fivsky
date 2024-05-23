@@ -19,6 +19,5 @@
 <i class="devicon-canva-original"></i>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="70" height="60"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="70" height="60"/>
     </p>            
