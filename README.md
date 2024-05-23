@@ -13,10 +13,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fivsky&layout=compact&langs_count=8&card_width=320&theme=onedark&show_icons=true" />
 </a>
 
-
-
-
-
+ 
+<i class="devicon-canva-original"></i>  
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="70" height="60"/>
