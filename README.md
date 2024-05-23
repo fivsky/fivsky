@@ -14,7 +14,8 @@
 </a>
 
 
-<i class="devicon-python-plain colored"></i>
+<i class="devicon-python-plain colored">
+</i>
           
 
 <
