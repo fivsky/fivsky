@@ -1,8 +1,7 @@
 <div id="header" align="center">
 <h1> Hello, it's Ruslan 👋 <h1/>
-
 <h3>
-<br><p class="left"> 🌱 I learn Python 1,5 year.<p/>
+<br> 🌱 I learn Python 1,5 year.
 <br><p class="left"> 👯 I’m looking to collaborate on simple Python projects or No code projects.<p/>
 <br><p class="left"> 🤔 I’m looking for help with Python, FastAPI, Django & Flask.<p/>
 <br><p class="left"> 📫 How to reach me: @ruslanfs - Telegram<p/>
