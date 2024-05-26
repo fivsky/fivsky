@@ -1,11 +1,14 @@
-## Hello, it's Ruslan 👋
+<div id= "header" align = "center">
+<h1> Hello, it's Ruslan 👋 <h1/>
 
+<h3>
 - 🌱 I learn Python 1,5 year.
 - 👯 I’m looking to collaborate on simple Python projects or No code projects.
 - 🤔 I’m looking for help with Python, FastAPI, Django & Flask.
 - 📫 How to reach me: @ruslanfs - Telegram
-
-
+</h3>
+<div/>
+  
 <a href="https://github.com/fivsky/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fivsky&theme=onedark&show_icons=true" />
 </a>
