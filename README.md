@@ -2,9 +2,9 @@
 <h1> Hello, it's Ruslan 👋 <h1/>
 <h3>
 <br> 🌱 I learn Python 1,5 year.
-<br><p class="left"> 👯 I’m looking to collaborate on simple Python projects or No code projects.<p/>
-<br><p class="left"> 🤔 I’m looking for help with Python, FastAPI, Django & Flask.<p/>
-<br><p class="left"> 📫 How to reach me: @ruslanfs - Telegram<p/>
+<br> 👯 I’m looking to collaborate on simple Python projects or No code projects.
+<br>🤔 I’m looking for help with Python, FastAPI, Django & Flask.
+<br> 📫 How to reach me: @ruslanfs - Telegram
 </h3>
 <div/>
   
