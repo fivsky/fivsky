@@ -1,9 +1,9 @@
 <div id="header" align="center">
 <h1> Hello, it's Ruslan 👋 <h1/>
 <h3>
-<br> 🌱 I learn Python 1,5 year.
-<br> 👯 I’m looking to collaborate on simple Python projects or No code projects.
-<br>🤔 I’m looking for help with Python, FastAPI, Django & Flask.
+<br> .
+<br> 👯 I’m looking to collaborate on Python projects or No code projects.
+<br>
 <br> 📫 How to reach me: @ruslanfs - Telegram
 </h3>
 <div/>
