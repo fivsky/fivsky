@@ -116,6 +116,6 @@
 <hr>
 
 <p align="center">
-  <sub>English: B2/C1 — technical documentation, meetings, job interviews</sub><br>
-  <sub>📫 Telegram: <a href="https://t.me/ruslanfs">@ruslanfs</a> | Email: <a href="mailto:your.email@example.com">your.email@example.com</a></sub>
+  <sub>English: C1 — technical documentation, meetings, job interviews</sub><br>
+  <sub>📫 Telegram: <a href="https://t.me/ruslanfs">@ruslanfs</a> | Email: <a href="mailto:aleksander.ruslan@gmail.com">your.email@example.com</a></sub>
 </p>
