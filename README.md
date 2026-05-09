@@ -16,6 +16,8 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
+<h2 align="center">🛠 Tech Stack</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -27,8 +29,11 @@
       <sub><b>Django</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/websocket.png" width="48" height="48"/><br>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0FBQTZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogIDxwYXRoIGQ9Ik0xMiAydjRtLTcgN2gzbDUgNk02IDZoM0wxMiAyWiIgLz4KPC9zdmc+" width="48" height="48" />
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0FBQTZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogIDxwYXRoIGQ9Ik0xMiAydjRtLTcgN2gzbDUgNk02IDZoM0wxMiAyWiIgLz4KPC9zdmc+" width="48" height="48"/><br>
+      <sub><b>WebSocket</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48"/><br>
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="96">
