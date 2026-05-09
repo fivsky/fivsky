@@ -117,5 +117,5 @@
 
 <p align="center">
   <sub>English: C1 — technical documentation, meetings, job interviews</sub><br>
-  <sub>📫 Telegram: <a href="https://t.me/ruslanfs">@ruslanfs</a> | Email: <a href="mailto:aleksander.ruslan@gmail.com">your.email@example.com</a></sub>
+  <sub>📫 Telegram: <a href="https://t.me/ruslanfs">@ruslanfs</a> | Email: <a href="mailto:aleksander.ruslan@gmail.com">aleksander.ruslan@gmail.com</a></sub>
 </p>
