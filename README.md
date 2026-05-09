@@ -2,8 +2,6 @@
 <h3 align="center">Python Developer | Real-time Apps | Django & Channels</h3>
 <p align="center">Open to remote work worldwide • <a href="mailto:aleksander.ruslan@gmail.com">Email</a> • <a href="https://t.me/ruslanfs">Telegram</a></p>
 
-<hr>
-
 <h2>🛠 Tech Stack</h2>
 <p>
   <b>Backend:</b> Python, Django, Django Channels, FastAPI, Flask<br>
